@@ -24,6 +24,7 @@ int main()
     for(int i=0; i<5; i++){
         display(c[i]);
     }
+    printf("i love u");
 
     return 0;
 }
